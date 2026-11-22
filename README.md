@@ -6,21 +6,9 @@ Built by **Team SpaceForAll**, Junior Astronaut helps children aged **7–12** d
 
 ## Video and event highlights
 
-<p>
-  <img src="Nasa/2nd.jpeg" alt="First-place trophy from the NASA Space Apps Challenge 2026 local event in Agadir" width="67%" align="right">
-  <a href="Nasa/1st.mp4"><img src="Nasa/1st-preview.gif" alt="Event video preview" width="32%"></a><br>
-  <img src="Nasa/logo.png" alt="Team SpaceForAll logo" width="32%">
-</p>
-<br clear="all">
-
-### Team SpaceForAll
+[![Event video above the Team SpaceForAll logo, beside the first-place trophy](Nasa/event-highlights.gif)](Nasa/1st.mp4)
 
 <img src="Nasa/3rd.jpeg" alt="Team SpaceForAll with the trophy and certificate" width="100%">
-
-<p>
-  <img src="Nasa/4rd.jpeg" alt="Event photograph of a participant seated at the venue" width="49.5%">
-  <img src="Nasa/5rd.jpeg" alt="Two participants taking a photograph at the event venue" width="49.5%">
-</p>
 
 ## Application demo
 
